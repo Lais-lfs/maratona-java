@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class Aula06EstruturasDeRepetição03 {
+public class Aula06EstruturasDeRepeticao03 {
     public static void main(String[] args) {
         // Imprima os primeiros 25 números de um dado valor. Por exemplo, 50
 
