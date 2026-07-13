@@ -1,0 +1,12 @@
+Exercício: Sistema de Formas Geométricas
+
+Uma empresa está desenvolvendo um software para desenhar formas geométricas.
+Todas as formas possuem algumas características em comum, mas cada uma calcula sua área de maneira diferente.
+
+Regras:
+Toda forma geométrica possui:
+- uma cor;
+- um método para calcular a área.
+
+Como não existe uma fórmula única para calcular a área de todas as formas,
+esse cálculo deverá ser definido por cada tipo de forma.
